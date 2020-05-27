@@ -12,6 +12,7 @@ public enum Locale {
     fil_PH(StandardCharsets.UTF_16BE),
     ja_JP(StandardCharsets.UTF_16BE),
     ko_KR(StandardCharsets.UTF_16BE),
+    nl_NL(StandardCharsets.UTF_16BE),
     pt_BR(StandardCharsets.UTF_16BE),
     ro_RO(StandardCharsets.UTF_16BE),
     sr_SP(StandardCharsets.UTF_16BE);
